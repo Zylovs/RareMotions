@@ -1,0 +1,13 @@
+@font-face{
+  font-family: myfont;
+  src:url(anotherdanger.otf)
+}
+.heading-center {
+  color: #000;
+  background-color: #8b0404;
+  min-height: 10vh;
+  width: 90vvw;
+  display: flex;
+  align-items: center;
+  padding-left: 1rem;
+}
